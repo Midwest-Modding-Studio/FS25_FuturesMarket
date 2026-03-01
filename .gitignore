@@ -1,41 +1,78 @@
-# Compiled Lua sources
-luac.out
+#########################################
+# Operating System Junk
+#########################################
+.DS_Store
+Thumbs.db
+desktop.ini
 
-# luarocks build files
-*.src.rock
+#########################################
+# IDE & Editor Folders
+#########################################
+.vscode/
+.idea/
+*.code-workspace
+
+#########################################
+# Logs & Debug
+#########################################
+*.log
+log.txt
+crash.log
+
+#########################################
+# Temporary / Backup Files
+#########################################
+*.tmp
+*.bak
+*.swp
+*.old
+*~
+
+#########################################
+# Build & Release Artifacts
+#########################################
 *.zip
-*.tar.gz
+dist/
+build/
+release/
 
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
+#########################################
+# Giants Editor Temp Files
+#########################################
+*.i3d.shapes
+*.i3d.cache
+*.cache
+*.gscene
 
-# Precompiled Headers
-*.gch
-*.pch
+#########################################
+# Windows File Cache
+#########################################
+ehthumbs.db
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
+#########################################
+# Mac System Files
+#########################################
+.AppleDouble
+.LSOverride
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+#########################################
+# Lua Bytecode (if generated)
+#########################################
+*.luac
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+#########################################
+# Node (if you ever add tooling)
+#########################################
+node_modules/
 
+#########################################
+# Python (if used for build scripts)
+#########################################
+__pycache__/
+*.pyc
+
+#########################################
+# Testing Sandbox Folder
+#########################################
+sandbox/
+test_build/
