@@ -2,98 +2,34 @@
 📜 Futures Market Mod License
 Futures Market Mod License (FMML) v1.0
 
-Copyright (c) 2026 Midwest Iron & Acres Modding
-All Rights Reserved.
+Midwest Modding Studio Proprietary License v1.0
 
-This license applies exclusively to the Iron & Acres Management mod and all associated files.
+Copyright (c) 2026 Midwest Modding Studio
 
-------------------------------------------------------------
-1. Ownership
-------------------------------------------------------------
+All rights reserved.
 
-The Iron & Acres Management mod, including but not limited to all scripts, source code, XML files, textures, UI elements, systems, financial logic, structure, branding, and design concepts, is the intellectual property of Midwest Iron & Acres Modding.
+This software and associated files (the "Software") are proprietary property of Midwest Modding Studio.
 
-All rights not expressly granted are reserved.
+Permission is hereby granted to download and use the Software for personal, non-commercial gameplay purposes only within Farming Simulator 25.
 
-------------------------------------------------------------
-2. Permitted Personal Use
-------------------------------------------------------------
+The following are strictly prohibited without explicit written permission from Midwest Modding Studio:
 
-You are permitted to:
+- Redistribution of source code
+- Redistribution of modified versions
+- Commercial use
+- Monetization
+- Resale
+- Repackaging
+- Extraction of assets for reuse
+- Reverse engineering for redistribution
 
-• Download and use this mod for personal gameplay.
-• Share the official download link.
-• Feature the mod in videos, livestreams, and reviews with credit.
-• Submit bug reports and suggestions.
+This license does not grant any ownership rights.
 
-------------------------------------------------------------
-3. Structured Community Collaboration
-------------------------------------------------------------
+Midwest Modding Studio reserves the right to modify, revoke, or update this license at any time.
 
-Community collaboration is permitted under controlled conditions:
+This Software is provided "as is", without warranty of any kind, express or implied.
 
-• Bug fixes, compatibility improvements, translations, and performance optimizations may be submitted via official contribution channels (e.g., GitHub pull requests).
-• Submitted contributions must not contain third-party protected assets.
-• By submitting a contribution, the contributor grants Midwest Iron & Acres Modding a perpetual, royalty-free right to use, modify, and distribute the contribution as part of the official mod.
-• Approved contributions become part of the official release and remain under this license.
-
-Public forks, redistributed modified builds, or unofficial derivative releases are not permitted without explicit written authorization.
-
-------------------------------------------------------------
-4. Compatible Add-Ons & Extensions
-------------------------------------------------------------
-
-Third-party add-ons and extensions are permitted under the following conditions:
-
-• Add-ons must function as independent mods and must not include, copy, or redistribute any files from Iron & Acres Management.
-• Add-ons may interface with publicly exposed functions, events, or documented APIs provided by the mod.
-• Add-ons must not replicate core systems or branding in a manner that causes user confusion.
-• Add-ons must clearly state they are unofficial and not developed by Midwest Iron & Acres Modding.
-• Add-ons may not be monetized in a way that conflicts with GIANTS Software policies.
-
-Midwest Iron & Acres Modding reserves the right to restrict compatibility with add-ons that violate this policy.
-
-------------------------------------------------------------
-5. Restrictions
-------------------------------------------------------------
-
-You may NOT:
-
-• Reupload this mod to any website or file host.
-• Redistribute altered or unaltered versions.
-• Extract or reuse assets for redistribution.
-• Include this mod in mod packs without written permission.
-• Remove branding or author identifiers.
-• Convert this mod to other Farming Simulator versions without authorization.
-• Use this mod for commercial purposes.
-
-------------------------------------------------------------
-6. Monetization Policy
-------------------------------------------------------------
-
-This mod may not be:
-
-• Sold
-• Placed behind paywalls
-• Distributed via ad-gated links
-• Used for direct commercial gain
-
-Gameplay videos may be monetized through standard platform ad revenue.
-
-------------------------------------------------------------
-7. Compliance with GIANTS Software
-------------------------------------------------------------
-
-This license operates in compliance with GIANTS Software’s EULA and modding policies. Nothing herein supersedes or overrides those terms.
-
-------------------------------------------------------------
-8. Termination
-------------------------------------------------------------
-
-Permissions granted under this license automatically terminate upon violation of these terms.
-
-------------------------------------------------------------
-9. No Warranty
+Use of this Software constitutes acceptance of these terms.
 ------------------------------------------------------------
 
 This mod is provided "as is", without warranty of any kind. Midwest Iron & Acres Modding shall not be liable for any damages arising from its use.
