@@ -176,9 +176,9 @@ No informal releases.
 
 # 🔒 Licensing
 
-This project operates under the Midwest Iron & Acres Modding Proprietary License v1.0 unless explicitly stated otherwise.
+This project operates under the Midwest Modding Studio Proprietary License v1.0.
 
-Unauthorized redistribution or monetization is prohibited.
+Unauthorized redistribution, modification, or monetization is prohibited without explicit permission from Midwest Modding Studio.
 
 ---
 
