@@ -15,10 +15,6 @@ Futures Market exists to:
 - Introduce forward contract trading mechanics
 - Expand economic realism
 - Simulate price volatility exposure
-- Allow strategic hedging of harvested commodities
-- Provide a controlled preview of Suite-level functionality
-
-This mod operates independently and does not require the Iron & Acres Management Suite.
 
 ---
 
@@ -38,7 +34,6 @@ Players may:
 
 - Lock in future crop prices
 - Take speculative long or short positions
-- Manage exposure against expected harvest yields
   
 ---
 
