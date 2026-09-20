@@ -26,7 +26,6 @@ Futures Market introduces:
 - Time-based settlement
 - Market speculation
 - Risk exposure modeling
-- Forward commitment mechanics
 
 Players may:
 
