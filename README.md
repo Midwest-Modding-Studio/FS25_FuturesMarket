@@ -33,7 +33,7 @@ Players may:
   
 ---
 
-#IMAGES
+Images
 
 <img width="1600" height="900" alt="1" src="https://github.com/user-attachments/assets/6f3284b0-b6cc-486f-8f06-00dc126545db" />
 
