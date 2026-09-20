@@ -4,8 +4,6 @@ Futures Market is a standalone economic simulation mod for Farming Simulator 25.
 
 It introduces commodity futures trading mechanics into the base game economy, allowing players to hedge risk, speculate on crop pricing, and manage forward contracts outside of traditional spot market systems.
 
-This mod serves as the foundational preview of the Futures Market system that will later integrate into the Iron & Acres Management Suite.
-
 ---
 
 # 🎯 Purpose
@@ -32,7 +30,6 @@ Futures Market introduces:
 
 Players may:
 
-- Lock in future crop prices
 - Take speculative long or short positions
   
 ---
